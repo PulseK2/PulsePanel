@@ -43,6 +43,20 @@ More programs & projects by **[PulseK2](https://github.com/PulseK2/)**.
 - **100% Free & Local**: No accounts, telemetry lock-in, or paid tiers.
 
 ---
+## Panel Images
+<img width="1383" height="896" alt="image" src="https://github.com/user-attachments/assets/a2ae2244-a426-452d-b2c7-731c89558c35" />
+<img width="1533" height="884" alt="image" src="https://github.com/user-attachments/assets/24623551-3a65-4924-be4b-f4d276f473cf" />
+<img width="1532" height="889" alt="image" src="https://github.com/user-attachments/assets/d931d255-beda-460a-a1f3-27afe31f753a" />
+<img width="1524" height="888" alt="image" src="https://github.com/user-attachments/assets/dd5e78b7-fe3d-4921-8ff6-8f0fd99b27da" />
+<img width="1533" height="882" alt="image" src="https://github.com/user-attachments/assets/92b046f1-3e81-4350-91ea-8c91d280551d" />
+
+
+
+
+
+
+## Features
+
 
 ## Single-EXE Usage (Windows)
 
